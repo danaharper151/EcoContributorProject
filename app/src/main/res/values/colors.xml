@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="EcoGreen">#FF00FF86</color>
+    <color name="EcoLight">#FF9FFFBD</color>
+    <color name="EcoLightest">#FFBBFFAA</color>
+    <color name="EcoBold">#FF004B17</color>
+    <color name="EcoForest">#FF007424</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Cream">#FFFFFDC6</color>
+
+
+</resources>
