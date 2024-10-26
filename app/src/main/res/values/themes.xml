@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.EcoContributor" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/EcoGreen</item>
+        <item name="colorPrimaryVariant">@color/EcoBold</item>
+        <item name="colorOnPrimary">@color/EcoLightest</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/EcoLight</item>
+        <item name="colorSecondaryVariant">@color/EcoForest</item>
+        <item name="colorOnSecondary">@color/Cream</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.EcoContributor.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.EcoContributor.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.EcoContributor.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
